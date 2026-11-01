@@ -4,5 +4,7 @@
   "java.project.referencedLibraries": [
     "c:\\Users\\DELL\\Downloads\\postgresql-42.7.14.jar"
   ],
-  "cSpell.words": ["Simpletron"]
+  "cSpell.words": ["Simpletron"],
+  "java.compile.nullAnalysis.mode": "automatic",
+  "java.debug.settings.onBuildFailureProceed": true
 }
