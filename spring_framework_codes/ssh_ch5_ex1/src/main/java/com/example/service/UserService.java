@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 public class UserService {
 
     @Autowired
-    private  CommentRepository commentRepository;
+    private CommentRepository commentRepository;
 
     public CommentRepository getCommentRepository() {
         return commentRepository;

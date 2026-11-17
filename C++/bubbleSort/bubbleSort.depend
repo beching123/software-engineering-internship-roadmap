@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1794325611 source:c:\users\dell\sorftware-engineering-1yr-internship-program-at-afrovision-roadmap-repo\c++\bubblesort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

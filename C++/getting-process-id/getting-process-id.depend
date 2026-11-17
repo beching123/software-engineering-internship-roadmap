@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1793978849 source:c:\users\dell\sorftware-engineering-1yr-internship-program-at-afrovision-roadmap-repo\c++\getting-process-id\main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<unistd.h>
+
